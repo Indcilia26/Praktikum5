@@ -7,16 +7,19 @@
 = NIM : 312110354
 
 = Kelas : TI.21.CA.1
+
 ===============================
 
-Pada mata kuliah Bahasa Pemrograman - Pertemuan 9 kali ini saya mendapatkan materi List, Tuple dan Dictionary.
-Nah, untuk praktikum 5 ini materi yang didapatkan adalah List.
+Pada mata kuliah Bahasa Pemrograman - Pertemuan 9 kali ini saya mendapatkan materi *List, Tuple dan Dictionary*.
+Nah, untuk praktikum 5 ini materi yang didapatkan adalah **List**.
 
 
-Didalam materi praktikum 5 ini terdapat 2 tugas. Yaitu : Latihan dan Praktikum.
-Praktikum 5 - Latihan
+Didalam materi praktikum 5 ini terdapat 2 tugas. Yaitu : **Latihan dan Praktikum**.
+
+### Latihan
 Berikut adalah tugas dari Latihan, bisa dilihat pada gambar dibawah ini :
-Soal Tugas Latihan
+![img](Screenshot/ss1.png)
+
 Berikut jawaban / source code / program sederhana yang telah saya buat :
 ```ruby
 print("Nama : Indira Rully Pricilia")
@@ -58,7 +61,7 @@ print(kontak)
 Untuk hasil dari source code tersebut adalah seperti berikut :
 ![img](Screenshot/ss1.png)
 
-Praktikum 5 - Praktikum
+### Praktikum
 Untuk tugas yang kedua yaitu Tugas Praktikum, yaitu tugas untuk membuat program sederhana menampilkan Data Nilai Mahasiswa.
 
 Berikut soal yang diberikan oleh dosen :
@@ -217,55 +220,63 @@ while True:
 ```
 Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelaskan sedikit pengertian dari fitur-fitur yang ada di program tersebut.
 
-Fitur Tambah Data.
-Fitur ini akan muncul ketika mengetikan perintah T , Tampilannya seperti berikut ini :
-Add Data
-Pada fitur tersebut user akan diminta memasukkan data berupa : NIM, Nama, Nilai Tugas, Nilai UTS dan Nilai UAS
-Untuk nilai akhir akan muncul otomatis, karena telah diatur oleh system
-Data akan otomatis muncul dalam Table, saya menggunakan module prettyTable , module ini telah saya jelaskan pada praktikum 4
+**Fitur Tambah Data**
+• Fitur ini akan muncul ketika mengetikan perintah T , Tampilannya seperti berikut ini :
+![img](Screenshot/ss1.png)
 
-Fitur Lihat Data
-Fitur ini akan muncul ketika user mengetikkan perintah L
-Dalam fitur ini terdapat 2 output, system akan memunculkan seperti berikut, jika data Kosong atau tidak ada.
-Lihat Data jika kosong
-Sedang kan output berikutnya akan menampilkan data dalam bentuk table
-Lihat Data
+• Pada fitur tersebut user akan diminta memasukkan data berupa : NIM, Nama, Nilai Tugas, Nilai UTS dan Nilai UAS
+• Untuk nilai akhir akan muncul otomatis, karena telah diatur oleh system
+• Data akan otomatis muncul dalam Table, saya menggunakan module prettyTable 
 
-Fitur Ubah Data
-Fitur ini akan muncul ketika user mengetikan perintah U
-Pilihan Ubah Data
-Sistem akan menampilkan pertanyaan untuk memastikan data siapa yang akan diubah.
-User akan diminta untuk memasukkan NIM, fitur ini akan mengubah berdasarkan NIM
+**Fitur Lihat Data**
+• Fitur ini akan muncul ketika user mengetikkan perintah L
+• Dalam fitur ini terdapat 2 output, system akan memunculkan seperti berikut, jika data Kosong atau tidak ada.
+![img](Screenshot/ss1.png)
 
-Setelah user mamasukkan NIM yang akan diubah, maka sistem akan menampilkan pertanyaan berupa Data apa yang akan diubah
-Pilihan Ubah
-Dalam system tersebut terdapat pilihan untuk mengubah Nama, Nilai Tugas, Nilai UTS, Nilai UAS. Bisa dipilih berdasarkan angka pilihan
-Berikut contoh saya untuk mengubah data Nama
-Ubah Nama
-Berikut contoh saya untuk mengubah nilai Tugas
-Ubah Nilai Tugas
-Berikut contoh saya untuk mengubah Nilai UTS
-Ubah Nila UTS
-Berikut contoh saya untuk mengubah Nilai UAS
-Ubah Nilai UAS
+• Sedangkan output berikutnya akan menampilkan data dalam bentuk table
+![img](Screenshot/ss1.png)
+
+**Fitur Ubah Data**
+• Fitur ini akan muncul ketika user mengetikan perintah U
+![img](Screenshot/ss1.png)
+
+• Sistem akan menampilkan pertanyaan untuk memastikan data siapa yang akan diubah.
+• User akan diminta untuk memasukkan NIM, fitur ini akan mengubah berdasarkan NIM
+• Setelah user mamasukkan NIM yang akan diubah, maka sistem akan menampilkan pertanyaan berupa Data apa yang akan diubah
+![img](Screenshot/ss1.png)
+
+• Dalam system tersebut terdapat pilihan untuk mengubah Nama, Nilai Tugas, Nilai UTS, Nilai UAS. Bisa dipilih berdasarkan angka pilihan
+• Berikut contoh saya untuk mengubah data Nama
+![img](Screenshot/ss1.png)
+
+• Berikut contoh saya untuk mengubah nilai Tugas
+![img](Screenshot/ss1.png)
+
+• Berikut contoh saya untuk mengubah Nilai UTS
+![img](Screenshot/ss1.png)
+
+• Berikut contoh saya untuk mengubah Nilai UAS
+![img](Screenshot/ss1.png)
+
 Pada perubahan nilai, nilai akhir otomatis akan ikut berubah
 
-Fitur Pencarian Data
-Fitur ini akan muncul ketika user mengetikan perintah C
-Untuk menampilkan data lain, saya akan menambahkan data baru bernama Rangga
-Tambah data Rangga
-Ketika data rangga sudah diinputkan, maka fitur cari siap digunakan. Seperti fitur-fitur lainnya, program ini menggunakan data primary key NIM.
-Jadi fitur cari juga akan menampilkan data berdasarkan NIM. Seperti contoh dibawah ini :
-Fitur Cari
+**Fitur Pencarian Data**
+• Fitur ini akan muncul ketika user mengetikan perintah C
+• Untuk menampilkan data lain, saya akan menambahkan data baru bernama Rangga
+![img](Screenshot/ss1.png)
 
-Fitur Hapus Data
-Fitur ini akan muncul ketika user mengetikkan perintah H
-Seperti ini hasil yang akan ditampilkan :
-Hapus Data
+• Ketika data rangga sudah diinputkan, maka fitur cari siap digunakan. Seperti fitur-fitur lainnya, program ini menggunakan data primary key NIM.
+• Jadi fitur cari juga akan menampilkan data berdasarkan NIM. Seperti contoh dibawah ini :
+![img](Screenshot/ss1.png)
 
-Fitur Keluar Program
-Fitur ini akan muncul ketika user mengetikkan perintah K
-Seperti ini hasil yang akan ditampilkan
-Keluar Program
+**Fitur Hapus Data**
+• Fitur ini akan muncul ketika user mengetikkan perintah H, Seperti ini hasil yang akan ditampilkan :
+![img](Screenshot/ss1.png)
 
-Seperti itulah hasil dari tugas yang diberkan oleh dosen
+**Fitur Keluar Program**
+• Fitur ini akan muncul ketika user mengetikkan perintah K, seperti ini hasil yang akan ditampilkan
+![img](Screenshot/ss1.png)
+
+Sekian penjelasan tugas praktikum 5, terimakasih atas perhatiannya.
+
+#### Indira Rully Pricilia - 312110354 - TI.21.CA.1
