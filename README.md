@@ -221,6 +221,7 @@ while True:
 Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelaskan sedikit pengertian dari fitur-fitur yang ada di program tersebut.
 
 **Fitur Tambah Data**
+
 • Fitur ini akan muncul ketika mengetikan perintah T , Tampilannya seperti berikut ini :
 ![img](Screenshot/ss1.png)
 
@@ -229,6 +230,7 @@ Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelas
 • Data akan otomatis muncul dalam Table, saya menggunakan module prettyTable 
 
 **Fitur Lihat Data**
+
 • Fitur ini akan muncul ketika user mengetikkan perintah L
 • Dalam fitur ini terdapat 2 output, system akan memunculkan seperti berikut, jika data Kosong atau tidak ada.
 ![img](Screenshot/ss1.png)
@@ -237,6 +239,7 @@ Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelas
 ![img](Screenshot/ss1.png)
 
 **Fitur Ubah Data**
+
 • Fitur ini akan muncul ketika user mengetikan perintah U
 ![img](Screenshot/ss1.png)
 
@@ -261,6 +264,7 @@ Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelas
 Pada perubahan nilai, nilai akhir otomatis akan ikut berubah
 
 **Fitur Pencarian Data**
+
 • Fitur ini akan muncul ketika user mengetikan perintah C
 • Untuk menampilkan data lain, saya akan menambahkan data baru bernama Rangga
 ![img](Screenshot/ss1.png)
@@ -270,13 +274,15 @@ Pada perubahan nilai, nilai akhir otomatis akan ikut berubah
 ![img](Screenshot/ss1.png)
 
 **Fitur Hapus Data**
+
 • Fitur ini akan muncul ketika user mengetikkan perintah H, Seperti ini hasil yang akan ditampilkan :
 ![img](Screenshot/ss1.png)
 
 **Fitur Keluar Program**
+
 • Fitur ini akan muncul ketika user mengetikkan perintah K, seperti ini hasil yang akan ditampilkan
 ![img](Screenshot/ss1.png)
 
 Sekian penjelasan tugas praktikum 5, terimakasih atas perhatiannya.
 
-#### Indira Rully Pricilia - 312110354 - TI.21.CA.1
+#### *Indira Rully Pricilia - 312110354 - TI.21.CA.1*
