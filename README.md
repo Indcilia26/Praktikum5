@@ -10,9 +10,8 @@
 
 ===============================
 
-Pada mata kuliah Bahasa Pemrograman - Pertemuan 9 kali ini saya mendapatkan materi *List, Tuple dan Dictionary*.
+Pada Pertemuan 9 kali ini saya mendapatkan materi *List, Tuple dan Dictionary*.
 Nah, untuk praktikum 5 ini materi yang didapatkan adalah **List**.
-
 
 Didalam materi praktikum 5 ini terdapat 2 tugas. Yaitu : **Latihan dan Praktikum**.
 
@@ -20,7 +19,7 @@ Didalam materi praktikum 5 ini terdapat 2 tugas. Yaitu : **Latihan dan Praktikum
 Berikut adalah tugas dari Latihan, bisa dilihat pada gambar dibawah ini :
 ![img](Screenshot/ss1.png)
 
-Berikut jawaban / source code / program sederhana yang telah saya buat :
+Berikut source code / program sederhana yang telah saya buat :
 ```ruby
 print("Nama : Indira Rully Pricilia")
 print("NIM : 312110354")
