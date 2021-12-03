@@ -2,9 +2,11 @@
 
 ## Tugas Pertemuan 9 - Praktikum 5 (Bahasa Pemrograman)
 
-=Nama : Indira Rully Pricilia
-=NIM : 312010043
-=Kelas : TI.20.B.1
+= Nama : Indira Rully Pricilia
+
+= NIM : 312110354
+
+= Kelas : TI.21.CA.1
 ===============================
 
 Pada mata kuliah Bahasa Pemrograman - Pertemuan 9 kali ini saya mendapatkan materi List, Tuple dan Dictionary.
