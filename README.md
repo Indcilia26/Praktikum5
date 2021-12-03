@@ -2,9 +2,9 @@
 
 ## Tugas Pertemuan 9 - Praktikum 5 (Bahasa Pemrograman)
 
-= Nama : Indira Rully Pricilia
-= NIM : 312010043
-= Kelas : TI.20.B.1
+Nama : Indira Rully Pricilia
+NIM : 312010043
+Kelas : TI.20.B.1
 ===============================
 
 Pada mata kuliah Bahasa Pemrograman - Pertemuan 9 kali ini saya mendapatkan materi List, Tuple dan Dictionary.
@@ -16,9 +16,10 @@ Praktikum 5 - Latihan
 Berikut adalah tugas dari Latihan, bisa dilihat pada gambar dibawah ini :
 Soal Tugas Latihan
 Berikut jawaban / source code / program sederhana yang telah saya buat :
-print("Nama : Febro Herdyanto")
-print("NIM : 312010043")
-print("Kelas : TI.20.B.1")
+```ruby
+print("Nama : Indira Rully Pricilia")
+print("NIM : 312110354")
+print("Kelas : TI.21.CA.1")
 print("=======================")
 print()
 
@@ -50,26 +51,29 @@ print("----------------------------------------------")
 print("Hapus kontak Dina")
 del kontak['Dina']
 print(kontak)
+```
+
 Untuk hasil dari source code tersebut adalah seperti berikut :
-Jawaban Soal Latihan
+![img](Screenshot/ss1.png)
+
 Praktikum 5 - Praktikum
 Untuk tugas yang kedua yaitu Tugas Praktikum, yaitu tugas untuk membuat program sederhana menampilkan Data Nilai Mahasiswa.
 
 Berikut soal yang diberikan oleh dosen :
-Soal Praktikum
+![img](Screenshot/ss1.png)
 
 Hasil yang diingkan oleh dosen, seperti ini :
-Keinginan Dosen dari Soal Praktikum - 1
+![img](Screenshot/ss1.png)
 
 Dan seperti ini :
-Keinginan Dosen dari Soal Praktikum - 1
+![img](Screenshot/ss1.png)
 
-Setelah saya membaca dan memahami materi, saya telah membuat program sederhana yang diminta dosen. Saya juga melihat dan membaca referensi dari Internet, entah itu berupa Forum ataupun lainnya. Berikut source code yang telah saya buat.
-
+Berikut source code yang telah saya buat :
+```ruby
 from prettytable import PrettyTable
 
-print("Nama : Febro Herdyanto")
-print("NIM : 312010043")
+print("Nama : Indira Rully Pricilia")
+print("NIM : 312110354")
 print("Kelas : TI.20.B.1")
 print("=======================")
 print()
@@ -208,6 +212,7 @@ while True:
         break
     else:
         print("ANDA MEMILIH PILIHAN YANG SALAH")
+```
 Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelaskan sedikit pengertian dari fitur-fitur yang ada di program tersebut.
 
 Fitur Tambah Data.
