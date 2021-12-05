@@ -219,7 +219,7 @@ while True:
 ```
 Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelaskan sedikit pengertian dari fitur-fitur yang ada di program tersebut.
 
-**Fitur Tambah Data**
+#### Fitur Tambah Data
 
 • Fitur ini akan muncul ketika mengetikan perintah T , Tampilannya seperti berikut ini :
 ![img](Screenshot/ss1.png)
@@ -228,7 +228,7 @@ Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelas
 
 • Untuk nilai akhir akan muncul otomatis, karena telah diatur oleh system  
 
-**Fitur Lihat Data**
+#### Fitur Lihat Data
 
 • Fitur ini akan muncul ketika user mengetikkan perintah L
 
@@ -238,7 +238,7 @@ Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelas
 • Sedangkan output berikutnya akan menampilkan data dalam bentuk table
 ![img](Screenshot/ss1.png)
 
-**Fitur Ubah Data**
+#### Fitur Ubah Data
 
 • Fitur ini akan muncul ketika user mengetikan perintah U
 ![img](Screenshot/ss1.png)
@@ -264,7 +264,7 @@ Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelas
 
 • Pada perubahan nilai, nilai akhir otomatis akan ikut berubah
 
-**Fitur Pencarian Data**
+#### Fitur Pencarian Data
 
 • Fitur ini akan muncul ketika user mengetikan perintah C
 
@@ -276,12 +276,12 @@ Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelas
 • Jadi fitur cari juga akan menampilkan data berdasarkan NIM. Seperti contoh dibawah ini :
 ![img](Screenshot/ss1.png)
 
-**Fitur Hapus Data**
+#### Fitur Hapus Data
 
 • Fitur ini akan muncul ketika user mengetikkan perintah H, Seperti ini hasil yang akan ditampilkan :
 ![img](Screenshot/ss1.png)
 
-**Fitur Keluar Program**
+#### Fitur Keluar Program
 
 • Fitur ini akan muncul ketika user mengetikkan perintah K, seperti ini hasil yang akan ditampilkan
 ![img](Screenshot/ss1.png)
