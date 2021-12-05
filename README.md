@@ -10,7 +10,7 @@
 
 ===============================
 
-Pada Pertemuan 9 kali ini saya mendapatkan materi *List, Tuple dan Dictionary*.
+Pada Pertemuan 10 kali ini saya mendapatkan materi *List, Tuple dan Dictionary*.
 Nah, untuk praktikum 5 ini materi yang didapatkan adalah **List**.
 
 Didalam materi praktikum 5 ini terdapat 2 tugas. Yaitu : **Latihan dan Praktikum**.
@@ -78,7 +78,7 @@ from prettytable import PrettyTable
 
 print("Nama : Indira Rully Pricilia")
 print("NIM : 312110354")
-print("Kelas : TI.20.B.1")
+print("Kelas :TI.21.CA.1")
 print("=======================")
 print()
 
