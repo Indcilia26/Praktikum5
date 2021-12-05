@@ -225,12 +225,13 @@ Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelas
 ![img](Screenshot/ss1.png)
 
 • Pada fitur tersebut user akan diminta memasukkan data berupa : NIM, Nama, Nilai Tugas, Nilai UTS dan Nilai UAS
-• Untuk nilai akhir akan muncul otomatis, karena telah diatur oleh system
-• Data akan otomatis muncul dalam Table, saya menggunakan module prettyTable 
+
+• Untuk nilai akhir akan muncul otomatis, karena telah diatur oleh system  
 
 **Fitur Lihat Data**
 
 • Fitur ini akan muncul ketika user mengetikkan perintah L
+
 • Dalam fitur ini terdapat 2 output, system akan memunculkan seperti berikut, jika data Kosong atau tidak ada.
 ![img](Screenshot/ss1.png)
 
@@ -242,12 +243,13 @@ Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelas
 • Fitur ini akan muncul ketika user mengetikan perintah U
 ![img](Screenshot/ss1.png)
 
-• Sistem akan menampilkan pertanyaan untuk memastikan data siapa yang akan diubah.
 • User akan diminta untuk memasukkan NIM, fitur ini akan mengubah berdasarkan NIM
+
 • Setelah user mamasukkan NIM yang akan diubah, maka sistem akan menampilkan pertanyaan berupa Data apa yang akan diubah
 ![img](Screenshot/ss1.png)
 
 • Dalam system tersebut terdapat pilihan untuk mengubah Nama, Nilai Tugas, Nilai UTS, Nilai UAS. Bisa dipilih berdasarkan angka pilihan
+
 • Berikut contoh saya untuk mengubah data Nama
 ![img](Screenshot/ss1.png)
 
@@ -260,15 +262,17 @@ Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelas
 • Berikut contoh saya untuk mengubah Nilai UAS
 ![img](Screenshot/ss1.png)
 
-Pada perubahan nilai, nilai akhir otomatis akan ikut berubah
+• Pada perubahan nilai, nilai akhir otomatis akan ikut berubah
 
 **Fitur Pencarian Data**
 
 • Fitur ini akan muncul ketika user mengetikan perintah C
+
 • Untuk menampilkan data lain, saya akan menambahkan data baru bernama Rangga
 ![img](Screenshot/ss1.png)
 
 • Ketika data rangga sudah diinputkan, maka fitur cari siap digunakan. Seperti fitur-fitur lainnya, program ini menggunakan data primary key NIM.
+
 • Jadi fitur cari juga akan menampilkan data berdasarkan NIM. Seperti contoh dibawah ini :
 ![img](Screenshot/ss1.png)
 
