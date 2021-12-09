@@ -21,7 +21,7 @@ print("Tambah kontak baru dengan nama Riko, nomor 087654544")
 kontak['Riko'] = '087654544'
 print("    Riko    | ", kontak['Riko'])
 print(30*"═")
-
+ 
 #Ubah kontak Dina dengan nomor baru 088999776
 print("Ubah kontak Dina dengan nomor baru 088999776")
 kontak['Dina'] = '088999776'
