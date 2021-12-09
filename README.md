@@ -303,7 +303,7 @@ while True berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa t
 Fungsi else jika tidak error dan type yang dimasukan sesuai maka proses while True
 
 
-**4. Penggunaan valuveError**
+**4. Penggunaan valueError**
 
 Fungsinya apabila diinputkan bukan berupa type maka hasil nya error (valueError)
 
