@@ -17,6 +17,7 @@ Didalam materi praktikum 5 ini terdapat 2 tugas. Yaitu : **Latihan dan Praktikum
 
 ### Latihan
 Berikut adalah tugas dari Latihan, bisa dilihat pada gambar dibawah ini :
+
 ![img](Screenshot/ss1.png)
 
 Berikut source code / program sederhana yang telah saya buat :
@@ -79,10 +80,12 @@ Untuk hasil dari source code tersebut adalah seperti berikut :
 Untuk tugas yang kedua yaitu Tugas Praktikum, yaitu tugas untuk membuat program sederhana menampilkan Data Nilai Mahasiswa.
 
 Berikut soal yang diberikan oleh dosen :
+
 ![img](Screenshot/ss3.png)
 
 Dan ini output yang diinginkan dosen :
-![img](Screenshot/ss4.png)
+
+![img](Screenshot/ss4.jpg)
 
 Berikut source code yang telah saya buat :
 ```ruby
@@ -283,49 +286,79 @@ while True:
 ```
 Cukup banyak baris yang saya buat untuk program tersebut. Dan saya akan menjelaskan sedikit pengertian dari fitur-fitur yang ada di program tersebut.
 
-1. Penggunaan if c.lower()
+**1. Penggunaan if c.lower()**
+
 if c.lower() fungsinya apabila user menginputkan denga huruf besar, maka otomatis akan menjadi huruf kecil sehingga kondisi yang digunakan tercapai. Contoh :
+
 • if c.lower() == q
 
-2. Penggunaan while True
+
+**2. Penggunaan while True**
+
 while True berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa type maka akan muncul error
 
-3. Penggunaan else
+
+**3. Penggunaan else**
+
 Fungsi else jika tidak error dan type yang dimasukan sesuai maka proses while True
 
-4. Penggunaan valuveError
+
+**4. Penggunaan valuveError**
+
 Fungsinya apabila diinputkan bukan berupa type maka hasil nya error (valueError)
 
-5. Fitur Tambah Data
+
+**5. Fitur Tambah Data**
+
 • Fitur ini akan muncul ketika mengetikan perintah T
+
 • Pada fitur tersebut user akan diminta memasukkan data berupa : NIM, Nama, Nilai Tugas, Nilai UTS dan Nilai UAS
+
 • Untuk nilai akhir akan muncul otomatis, karena telah diatur oleh system
 
-6. Fitur Lihat Data
+
+**6. Fitur Lihat Data**
+
 • Fitur ini akan muncul ketika user mengetikkan perintah L
+
 • Dalam fitur ini terdapat 2 output, jika data Kosong atau tidak ada. Sedangkan output berikutnya akan menampilkan data dalam bentuk table
 
-7. Fitur Ubah Data
+
+**7. Fitur Ubah Data**
+
 • Fitur ini akan muncul ketika user mengetikan perintah U
+
 • User akan diminta untuk memasukkan NIM, fitur ini akan mengubah berdasarkan NIM
+
 • Setelah user mamasukkan NIM yang akan diubah, maka sistem akan menampilkan pertanyaan berupa Data apa yang akan diubah
 
-8. Fitur Pencarian Data
+
+**8. Fitur Pencarian Data**
+
 • Fitur ini akan muncul ketika user mengetikan perintah C
+
 • Untuk menampilkan data lain, saya akan menambahkan data baru
+
 • Ketika data baru sudah diinputkan, maka fitur cari siap digunakan. Seperti fitur-fitur lainnya, program ini menggunakan data primary key NIM.
 
-9. Fitur Hapus Data
+
+**9. Fitur Hapus Data**
+
 Fitur ini akan muncul ketika user mengetikkan perintah H
 
-10. Fitur Keluar dari pendataan
+
+**10. Fitur Keluar dari pendataan**
+
 Fitur ini akan muncul ketika user mengetikkan perintah K
 
+
 Berikut hasil output dari praktikum nya :
+
 ![img](Screenshot/ss5.png)
 
 Dan berikut flowchartnya :
-![img](Screenshot/ss6.png)
+
+![img](Screenshot/ss6.jpg)
 
 **Sekian penjelasan tugas praktikum 5, terimakasih atas perhatiannya.**
 
